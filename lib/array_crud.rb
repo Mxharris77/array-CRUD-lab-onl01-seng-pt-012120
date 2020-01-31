@@ -22,8 +22,7 @@ end
 
 def remove_element_from_start_of_array(array)
   
-  first_element = array.shift
-  puts first_element
+ 
 end
 
 def retrieve_element_from_index(array, index_number)
