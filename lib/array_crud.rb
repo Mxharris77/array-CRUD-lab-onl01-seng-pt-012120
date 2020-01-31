@@ -8,17 +8,16 @@ end
 
 def add_element_to_end_of_array(array, element)
   array << "arrays!"
- 
 end
 
 def add_element_to_start_of_array(array, element)
   array.unshift("wow")
-  puts array
 end
 
 def remove_element_from_end_of_array(array)
   last_element = array.pop
   puts last_element
+  puts array
 end
 
 def remove_element_from_start_of_array(array)
