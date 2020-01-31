@@ -16,7 +16,7 @@ end
 
 def remove_element_from_end_of_array(array)
   
-  puts last
+  puts array
  
 end
 
